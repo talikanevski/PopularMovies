@@ -1,4 +1,4 @@
-# Movies1
+# PopularMovies
 Android Developer Nanodegree 2nd project. 
 The app fetches data from the Internet with theMovieDB API, 
 present the user with a grid arrangement of movie posters upon launch, 
