@@ -11,5 +11,6 @@ overview
 user rating
 release date.
 
-<img src="https://user-images.githubusercontent.com/36941009/46923051-28844a00-cfc7-11e8-8d25-9d5dbfc5f473.png" alt="alt text" width="250"> <img src="https://user-images.githubusercontent.com/36941009/46923053-2ae6a400-cfc7-11e8-9057-b208d19860a9.png" alt="alt text" width="250">
-<img src="https://user-images.githubusercontent.com/36941009/46923054-2d48fe00-cfc7-11e8-92bb-c3b2e4e2763d.png" alt="alt text" width="250">
+<img src="https://user-images.githubusercontent.com/36941009/46923051-28844a00-cfc7-11e8-8d25-9d5dbfc5f473.png" alt="alt text" width="250"> <img src="https://user-images.githubusercontent.com/36941009/46923053-2ae6a400-cfc7-11e8-9057-b208d19860a9.png" alt="alt text" width="250"> <img src="https://user-images.githubusercontent.com/36941009/47055262-4e4a5400-d16b-11e8-9e20-c9363d972b4d.png" alt="alt text" width="250">
+
+
